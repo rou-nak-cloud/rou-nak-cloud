@@ -1,5 +1,5 @@
 <div align="center">
-<img width="800" src="https://media2.giphy.com/media/NtSO0r0MHlgUd2o7Hi/100.webp" /><br/><br></br>
+<img width="800" src="https://media2.giphy.com/media/NtSO0r0MHlgUd2o7Hi/100.webp" />
 </div>
 
 # 📊 GitHub Stats:
