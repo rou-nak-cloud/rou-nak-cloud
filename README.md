@@ -3,10 +3,11 @@
 </div>
 
 # 📊 GitHub Stats:
-<div align="center">
+<!-- This is hidden -->
+<!--<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=rou-nak-cloud&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" /><br/>
     <img src="https://nirzak-streak-stats.vercel.app/?user=rou-nak-cloud&theme=transparent&hide_border=true" /><br/>
-    </div>
+    </div>-->
 <table align="center" width="100%">
   <tr>
     <td align="left">
@@ -18,7 +19,14 @@
   </tr>
 </table><br></br>
 
+## 💫 About Me:
+👋 Hey, I'm Rounak Bakshi!<br>
+I'm just someone who really enjoys building things with code. While I do work on full-stack projects—mostly with Node.js, Express, and MongoDB on the backend—my real excitement comes from crafting beautiful and interactive frontend experiences.
 
+Lately, I've been diving deep into creating stunning frontend projects using **GSAP**, **Framer Motion**, and **Three.js** — making websites feel alive, dynamic, and immersive. Whether it's smooth scroll animations, interactive 3D models, or modern UI designs, I love turning ideas into visual reality.
+I’m always curious, always learning, and get a weird amount of joy from solving bugs, cleaning up messy code, designing efficient database schemas, or creating smooth user experiences. I like building things that not only work well but also *feel great* to use — and I’m constantly leveling up my skills one project at a time.
+
+If you’re into coding, creating, or just wanna chat about tech, feel free to connect!<br></br>
 
 <h1 align="center">💻 Tech Stack:</h1>
 
@@ -48,16 +56,6 @@
 </p>
 
 
-## 💫 About Me:
-👋 Hey, I'm Rounak Bakshi!<br>
-I'm just someone who really enjoys building things with code. While I do work on full-stack projects—mostly with Node.js, Express, and MongoDB on the backend—my real excitement comes from crafting beautiful and interactive frontend experiences.
-
-Lately, I've been diving deep into creating stunning frontend projects using **GSAP**, **Framer Motion**, and **Three.js** — making websites feel alive, dynamic, and immersive. Whether it's smooth scroll animations, interactive 3D models, or modern UI designs, I love turning ideas into visual reality.
-
-I’m always curious, always learning, and get a weird amount of joy from solving bugs, cleaning up messy code, designing efficient database schemas, or creating smooth user experiences. I like building things that not only work well but also *feel great* to use — and I’m constantly leveling up my skills one project at a time.
-
-If you’re into coding, creating, or just wanna chat about tech, feel free to connect!<br></br>
-
 <h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
   <a href="https://instagram.com/bakshi_rounak19"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
@@ -77,7 +75,7 @@ If you’re into coding, creating, or just wanna chat about tech, feel free to c
 </div>
 
 
-## 🏆 GitHub Trophies
+<!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rou-nak-cloud&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 <h2 align="center">🔝 Top Contributed Repo</h2>
@@ -87,7 +85,7 @@ If you’re into coding, creating, or just wanna chat about tech, feel free to c
 
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXMzdzJmZWsxdnhwbGZva3kyZnBzYWlocGU0Y3Rla2JmZGIwdGJibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gG6OcTSRWaSis/giphy.gif" width="700" />
-</div>
+</div>-->
 
 
 ---
