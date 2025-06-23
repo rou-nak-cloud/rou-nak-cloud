@@ -48,8 +48,15 @@
 </p>
 
 
-# 💫 About Me:
-👋 Hey, I'm Rounak Bakshi !<br>I'm just someone who really enjoys building things with code. I spend most of my time working on full-stack projects—mostly with Node.js, Express, and MongoDB on the backend. Lately, I’ve been diving into cloud stuff like Cloudinary, Firebase, and it’s been a fun ride.<br><br>I’m always curious, always learning, and I get a weird amount of joy from solving bugs and cleaning up messy code, and designing efficient database schemas, or creating smooth user experiences,. I like building things that feel good to use, and I’m constantly trying to level up my skills one project at a time.<br><br>If you’re into coding, creating, or just wanna chat tech—feel free to connect!<br></br>
+## 💫 About Me:
+👋 Hey, I'm Rounak Bakshi!<br>
+I'm just someone who really enjoys building things with code. While I do work on full-stack projects—mostly with Node.js, Express, and MongoDB on the backend—my real excitement comes from crafting beautiful and interactive frontend experiences.
+
+Lately, I've been diving deep into creating stunning frontend projects using **GSAP**, **Framer Motion**, and **Three.js** — making websites feel alive, dynamic, and immersive. Whether it's smooth scroll animations, interactive 3D models, or modern UI designs, I love turning ideas into visual reality.
+
+I’m always curious, always learning, and get a weird amount of joy from solving bugs, cleaning up messy code, designing efficient database schemas, or creating smooth user experiences. I like building things that not only work well but also *feel great* to use — and I’m constantly leveling up my skills one project at a time.
+
+If you’re into coding, creating, or just wanna chat about tech, feel free to connect!<br></br>
 
 <h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
